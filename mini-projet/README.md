@@ -3,9 +3,8 @@
 Application Web (HTML/CSS/PHP/PDO/MySQL) permettant au personnel d'une médiathèque
 de gérer les livres, les adhérents, les emprunts et les retours, sans passer par phpMyAdmin.
 
-## Membres du binôme
-- ... (à compléter)
-- ... (à compléter)
+## Membre
+- Chaouch Rayan
 
 ## Installation
 
@@ -45,4 +44,4 @@ de gérer les livres, les adhérents, les emprunts et les retours, sans passer p
 
 ## Difficultés rencontrées
 
-- ... (à compléter par le binôme)
+- Je me suis énormément aidé de l'Ia sauf pour la partie SQL
